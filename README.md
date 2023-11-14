@@ -4,4 +4,4 @@ An e-commerce platform that offers the users to browse and purchase high-quality
 
 ## Deployed Link
 
-https://beatsmusichead.netlify.app/
+https://beatsmusichead.netlify.app
